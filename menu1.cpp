@@ -2,6 +2,6 @@
 using namespace std;
 int main ()
 {
-    cout << "TEST CODE";
+    cout << "menu1test";
     return 0;
 }
